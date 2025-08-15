@@ -5,5 +5,6 @@ int main(void){
     int r;
     printf("Digite o raio da circuferencia: ");
     scanf("%d", &r);
-    printf("%d", r**);
+    int r2 = r*r;
+    printf("%f", pi*r2);
 } 
