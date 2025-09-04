@@ -1,2 +1,1 @@
-# programas-teste
-teste de programas aleatórios
+#lab-de-programção
