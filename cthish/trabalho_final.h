@@ -1,0 +1,3 @@
+#ifndef MANIPARQUIVO
+#define MANIPARQUIVO
+
